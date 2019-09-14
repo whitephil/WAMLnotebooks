@@ -7,7 +7,7 @@ or here: https://bit.ly/WAMLnotebooks
 
 ### View the completed notebooks:
 
-WAML part1: Python and Pandas: https://outpw.github.io/WAMLp1%20Completed.html
-GeoPandas Primer: https://outpw.github.io/GeoPandas%20Primer%20Completed.html
-Joins and Plotting: https://outpw.github.io/Joins%20&%20more%20Plotting%20Completed.html
-Webmapping with Folium: https://outpw.github.io/Webmapping%20with%20Folium%20Completed.html  
+WAML part1: Python and Pandas: https://outpw.github.io/WAMLp1%20Completed.html  
+GeoPandas Primer: https://outpw.github.io/GeoPandas%20Primer%20Completed.html  
+Joins and Plotting: https://outpw.github.io/Joins%20&%20more%20Plotting%20Completed.html  
+Webmapping with Folium: https://outpw.github.io/Webmapping%20with%20Folium%20Completed.html    
